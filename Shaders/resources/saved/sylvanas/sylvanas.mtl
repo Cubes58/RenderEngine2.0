@@ -1,0 +1,125 @@
+newmtl base:Genesis2FemaleFBXASC046ShapeSG24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd eyelashes.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl base:phong3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd hair_color.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+newmtl base:phong5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Chest_armor_BaseColor.png
+bump Chest_armor_Normal_Flipped.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Chest_armor_Roughness.png
+newmtl base:phong6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cape_BaseColor.tga
+bump cape_Normal_Flipped.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl base:phong7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd shoulder_BaseColor.png
+bump shoulder_Normal_Flipped.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks shoulder_Roughness.png
+newmtl base:phong8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arrow_feather_diffuse.tga
+bump arrow_feather_normal.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks arrow_feather_roughness.png
+newmtl base:phong9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Waist_Armor_Base_Color.png
+bump Waist_Armor_Normal.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Waist_Armor_Roughness.png
+newmtl base:phong10SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Leg_Bow_Armor_BaseColor.png
+bump Leg_Bow_Armor_Normal_Flipped.png -bm 1
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Leg_Bow_Armor_Roughness.png
+newmtl base:phong11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd face_skin_color.png
+bump face_skin_normal.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl base:phong12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd eyes_color.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl base:phong13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd body_color.jpg
+bump body_normal.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd arrow_feather_diffuse.tga
+bump arrow_feather_normal.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd teeth_and_tongue_set_COL.png
+bump teeth_and_tongue_set_NOR.png -bm 1
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl surfaceShader1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
